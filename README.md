@@ -9,7 +9,7 @@
 3. Digite a letra que representa a Unidade de Disco ou Partição que você quer alterar o ícone
 4. Digite o número do ícone que deseja usar
 
-> Após alterar o ícone, a unidade precisa ser desconectada e conectada novamente para ser mostrada com o novo ícone.  
+> Após cada alteração, a unidade precisa ser desconectada e conectada novamente para ser mostrado o novo ícone.  
 > No caso de um disco interno, basta reiniciar o computador;  
 > ou Remover e Atribuir novamente a letra da unidade ou partição (não é necessário alterar para uma letra diferente). Isso pode ser feito usando o ```Gerenciador de Disco do Windows```.
 
