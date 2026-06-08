@@ -24,6 +24,14 @@ echo 	Clique neste arquivo com o botão direito do mouse e selecione a opção [
 :letra
 
 	cls & echo.
+echo ----------- ----------------
+echo       Letra Nome da Partição
+
+REM 	Executa um comando PowerShell para listar as partições de forma limpa
+
+	powershell -NoProfile -Command "Get-Volume | Where-Object {$_.DriveLetter} | Format-Table -Property DriveLetter, FileSystemLabel -AutoSize"
+
+	echo.
 	set /p letra=^>	Digite a letra da partição desejada e pressione [Enter]:
 
 :numero
