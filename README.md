@@ -2,7 +2,7 @@
 
 # Mudar o ícone da partição de uma unidade de disco no Windows
 
-> Este repositório contém um Batch Script que automatiza e simplifica a mudança do ícone de uma unidade de disco como Pendrive, HD externo ou Partição.
+> Este repositório contém um Batch Script que automatiza e simplifica a mudança do ícone de uma unidade de armazenamento como Pendrive, HD externo ou Partição de disco.
 
 # Instruções
 
